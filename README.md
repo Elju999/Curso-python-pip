@@ -5,3 +5,9 @@
 cd game
 python3 main.py
 ```
+#APP project 
+
+```sh
+git clone
+python3 main.py
+```
